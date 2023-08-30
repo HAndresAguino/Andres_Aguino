@@ -28,7 +28,7 @@ Soy  ingeniero mecánico especializado en gerencia de productividad e innovació
 - 📲🤳 Quiero aprender React Native para desarrollarme laboralmente y realizar ideas.   
   
 
-- 💡Como dato curioso todos los días busco ingeniar emprendimientos e identificar ideas de negocios en todos los sectores, ya sea de programación, ingeniería, negocios virtuales o pequeños proyectos. Actualmente tengo al rededor de 10 ideas o emprendimientos que quiero desarrollar de los cuales 3 tienen un potencial increíble y 1 es una innovación que no se ha desarrollado antes.  
+- 💡Como dato curioso todos los días busco ingeniar emprendimientos e identificar ideas de negocios en todos los sectores, ya sea de programación, ingeniería, negocios virtuales o pequeños proyectos. Actualmente tengo al rededor de 10 ideas o emprendimientos que quiero desarrollar de los cuales 3 tienen un buen potencial y 1 es una innovación que no se ha desarrollado antes.  
   
 
 <br/>  
