@@ -1,5 +1,5 @@
 <div align="center">
-<img src="" align="center" height="" width="600" />
+<img src="https://res.cloudinary.com/dvr9giaia/image/upload/v1693408026/PostWorks/text_wykxza.gif" align="center" height="" width="300" />
 </div>  
   
 
@@ -28,7 +28,7 @@ Soy  ingeniero mecánico especializado en gerencia de productividad e innovació
 - 📲🤳 Quiero aprender React Native para desarrollarme laboralmente y realizar ideas.   
   
 
-- 💡Como dato curioso todos los días busco ingeniar emprendimientos e identificar ideas de negocios en todos los sectores, ya sea de programación, ingeniería, negocios virtuales o pequeños proyectos. Actualmente tengo al rededor de 10 ideas o emprendimientos que quiero desarrollar de los cuales 3 tienen un nuen alcance y potencial y 1 es una innovación que no se ha desarrollado antes.  
+- 💡Como dato curioso todos los días busco ingeniar emprendimientos e identificar ideas de negocios en todos los sectores, ya sea de programación, ingeniería, negocios virtuales o pequeños proyectos. Actualmente tengo al rededor de 10 ideas o emprendimientos que quiero desarrollar de los cuales 3 tienen un potencial increíble y 1 es una innovación que no se ha desarrollado antes.  
   
 
 <br/>  
